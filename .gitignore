@@ -2,3 +2,4 @@
 .idea
 jenkins-wrapper.iml
 venv/
+lib/
