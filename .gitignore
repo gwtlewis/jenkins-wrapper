@@ -3,3 +3,4 @@
 jenkins-wrapper.iml
 venv/
 lib/
+deploy-to-vm.sh
